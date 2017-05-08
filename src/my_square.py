@@ -1,6 +1,6 @@
 def my_square(y):
         """takes a value and returnes the squared value.
-        uses the ** operator
+        uses the * operator
         """
         return(y ** 2)
         
